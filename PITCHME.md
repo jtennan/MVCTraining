@@ -51,7 +51,7 @@
 
 @snap[east span-50]
 | Property       | Type     |
-|----------------|----------|
+| -------------- | -------- |
 | Title          | string   |
 | Author         | string   |
 | Genre          | string   |
