@@ -37,7 +37,7 @@
 
 ---
 
-@snap[west span-50]
+@snap[west]
 @ul
 - ASP.NET Web Application - "BookInventory"
   - "Empty" project template
@@ -51,7 +51,7 @@
 @ulend
 @snapend
 
-@snap[east span-50]
+@snap[east]
 <table>
     <tr>
         <th>Property</th>
