@@ -77,6 +77,10 @@
         <td>bool</td>
     </tr>
     <tr>
+        <td>PublisherEmail</td>
+        <td>string</td>
+    </tr>
+    <tr>
         <td>PublishDate</td>
         <td>DateTime</td>
     </tr>
@@ -156,6 +160,18 @@ Add custom labels to all properties and add any appropriate datatypes
 ## SIMPLE VALIDATION
 
 20-25 Minutes
+
+---
+
+## LET'S UPDATE THE CONTROLLER
+
+![](assets/img/success_view.png)
+
+---
+
+## ENFORCE REQUIRED FIELDS
+
+![](assets/img/required_property.png)
 
 ---
 
