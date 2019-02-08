@@ -38,7 +38,7 @@
 ---
 
 @snap[east]
-@ul[](false)
+@ul
 - ASP.NET Web Application - "BookInventory"
   - "Empty" project template
   - MVC box is checked
