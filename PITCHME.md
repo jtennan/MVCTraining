@@ -94,6 +94,16 @@
 
 ---
 
+@snap[west span-50]
+Can we customize the labels?
+@snapend
+
+@snap[east span-50]
+![](assets/img/custom_labels.png)
+@snapend
+
+---
+
 ## SIMPLE VALIDATION
 
 20-25 Minutes
