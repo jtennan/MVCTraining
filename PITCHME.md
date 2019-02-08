@@ -175,4 +175,18 @@ Add custom labels to all properties and add any appropriate datatypes
 
 ---
 
+## YOUR TURN
+
+Apply the required annotation to all appropriate properties
+
+---
+
+## LIVE DEMO
+
+---
+
+## QUESTIONS?
+
+---
+
 ## ADDING A DROPDOWN

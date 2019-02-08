@@ -1,0 +1,74 @@
+﻿@model BookInventory.Version03.Models.Book
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Success</title>
+</head>
+<body>
+    <div>
+        <h4>Book</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Title)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Title)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Author)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Author)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Genre)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Genre)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.IsPublicDomain)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.IsPublicDomain)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.PublisherEmail)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.PublisherEmail)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.PublishDate)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.PublishDate)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>
