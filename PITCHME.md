@@ -37,7 +37,8 @@
 
 ---
 
-@snap[east span-50]
+## HINTS
+
 @ul[](false)
 - ASP.NET Web Application - "BookInventory"
   - "Empty" project template
@@ -49,9 +50,11 @@
   - Model class - "Book"
   - Use a layout page - unchecked
 @ulend
-@snapend
 
-@snap[west span-50]
+---
+
+## BOOK MODEL
+
 <table>
     <tr>
         <th>Property</th>
@@ -78,7 +81,6 @@
         <td>DateTime</td>
     </tr>
 </table>
-@snapend
 
 ---
 
