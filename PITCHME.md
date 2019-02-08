@@ -38,6 +38,7 @@
 ---
 
 @snap[west span-50]
+@ul
 - ASP.NET Web Application - "BookInventory"
   - "Empty" project template
   - MVC box is checked
@@ -47,16 +48,36 @@
   - Template - "Create"
   - Model class - "Book"
   - Use a layout page - unchecked
+@ulend
 @snapend
 
 @snap[east span-50]
-| Property       | Type     |
-| -------------- | -------- |
-| Title          | string   |
-| Author         | string   |
-| Genre          | string   |
-| IsPublicDomain | string   |
-| PublishDate    | DateTime |
+<table>
+    <th>
+        <td>Property</td>
+        <td>Type</td>
+    </th>
+    <tr>
+        <td>Title</td>
+        <td>string</td>
+    </tr>
+    <tr>
+        <td>Author</td>
+        <td>string</td>
+    </tr>
+    <tr>
+        <td>Genre</td>
+        <td>string</td>
+    </tr>
+    <tr>
+        <td>IsPublicDomain</td>
+        <td>bool</td>
+    </tr>
+    <tr>
+        <td>PublishDate</td>
+        <td>DateTime</td>
+    </tr>
+</table>
 @snapend
 
 ---
