@@ -130,7 +130,9 @@
 
 ---
 
+@snap[north]
 ## YOUR TURN
+@snapend
 
 @snap[west span-50]
 Add custom labels to all properties and add any appropriate datatypes
