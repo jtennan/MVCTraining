@@ -130,6 +130,27 @@
 
 ---
 
+## YOUR TURN
+
+@snap[west span-50]
+Add custom labels to all properties and add any appropriate datatypes
+@snapend
+
+@snap[east span-50]
+![](assets/img/data_annotation.png)
+![](assets/img/datatype_email.png)
+@snapend
+
+---
+
+## LIVE DEMO
+
+---
+
+## QUESTIONS?
+
+---
+
 ## SIMPLE VALIDATION
 
 20-25 Minutes
