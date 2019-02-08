@@ -37,8 +37,8 @@
 
 ---
 
-@snap[west]
-@ul
+@snap[east]
+@ul[](false)
 - ASP.NET Web Application - "BookInventory"
   - "Empty" project template
   - MVC box is checked
@@ -51,7 +51,7 @@
 @ulend
 @snapend
 
-@snap[east]
+@snap[west]
 <table>
     <tr>
         <th>Property</th>
