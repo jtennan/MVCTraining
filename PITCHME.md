@@ -109,7 +109,7 @@
 @snapend
 
 @snap[east span-50]
-![](assets/img/data_annotations.gif)
+![](assets/img/data_annotation.gif)
 @snapend
 
 ---
