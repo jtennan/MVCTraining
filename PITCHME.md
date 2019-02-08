@@ -53,10 +53,10 @@
 
 @snap[east span-50]
 <table>
-    <th>
-        <td>Property</td>
-        <td>Type</td>
-    </th>
+    <tr>
+        <th>Property</th>
+        <th>Type</th>
+    </tr>
     <tr>
         <td>Title</td>
         <td>string</td>
