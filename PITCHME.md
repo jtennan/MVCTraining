@@ -95,11 +95,21 @@
 ---
 
 @snap[west span-50]
-Can we customize the labels?
+## Can we customize the labels?
 @snapend
 
 @snap[east span-50]
 ![](assets/img/custom_labels.png)
+@snapend
+
+---
+
+@snap[west span-50]
+## *PRO TIP*: Hit Ctrl and "." then hit enter
+@snapend
+
+@snap[east span-50]
+![](assets/img/data_annotations.gif)
 @snapend
 
 ---
