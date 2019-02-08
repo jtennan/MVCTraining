@@ -104,6 +104,12 @@
 
 ---
 
+## ANNOTATE THE PROPERTY FOR CUSTOM LABELS
+
+![](assets/img/data_annotation.png)
+
+---
+
 @snap[west span-50]
 ## *PRO TIP*: Hit Ctrl and "." then hit enter
 @snapend
