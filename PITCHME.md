@@ -120,6 +120,16 @@
 
 ---
 
+@snap[west span-50]
+![](assets/img/datatype_email.png)
+@snapend
+
+@snap[east span-50]
+![](assets/img/datatype_error.gif)
+@snapend
+
+---
+
 ## SIMPLE VALIDATION
 
 20-25 Minutes
