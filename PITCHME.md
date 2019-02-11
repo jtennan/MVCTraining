@@ -190,3 +190,26 @@ Apply the required annotation to all appropriate properties
 ---
 
 ## ADDING A DROPDOWN
+
+10 Minutes
+
+---
+
+## HTML HELPERS
+
+![](assets/img/dropdown_view.png)
+
+
+---
+
+## HELPING YOURSELF
+
+F12 is your friend!
+
+![](assets/img/dropdown_def.gif)
+
+---
+
+## Html.DropDownListFor
+
+![](assets/img/dropdown_def.png)

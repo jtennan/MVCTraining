@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookInventory.Version02", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookInventory.Version03", "BookInventory.Version03\BookInventory.Version03.csproj", "{F1D4530C-1B2E-40D5-8B4D-C41D35DAD72F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookInventory.Version04", "BookInventory.Version04\BookInventory.Version04.csproj", "{2BEFC13A-15D6-44CF-82D2-10B6C1CDAA12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F1D4530C-1B2E-40D5-8B4D-C41D35DAD72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1D4530C-1B2E-40D5-8B4D-C41D35DAD72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1D4530C-1B2E-40D5-8B4D-C41D35DAD72F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BEFC13A-15D6-44CF-82D2-10B6C1CDAA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BEFC13A-15D6-44CF-82D2-10B6C1CDAA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BEFC13A-15D6-44CF-82D2-10B6C1CDAA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BEFC13A-15D6-44CF-82D2-10B6C1CDAA12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
