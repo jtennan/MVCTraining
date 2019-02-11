@@ -213,3 +213,29 @@ F12 is your friend!
 ## Html.DropDownListFor
 
 ![](assets/img/dropdown_def.png)
+
+---
+
+## IMPLEMENTATION
+
+![](assets/img/dropdown_implementation.png)
+![](assets/img/selectlistitems.png)
+
+---
+
+## YOUR TURN
+
+@ul[](false)
+- Add a dropdown for genre
+- Add the dropdown option items to the model object
+- Use F12/Google to add the dropdown
+@ulend
+
+---
+
+## LIVE DEMO
+
+---
+
+## QUESTIONS?
+
