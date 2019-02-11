@@ -216,17 +216,10 @@ F12 is your friend!
 
 ---
 
-@snap[north]
 ## IMPLEMENTATION
-@snapend
 
-@snap[west span-50]
 ![](assets/img/dropdown_implemented.png)
-@snapend
-
-@snap[east span-50]
 ![](assets/img/selectlistitems.png)
-@snapend
 
 ---
 
