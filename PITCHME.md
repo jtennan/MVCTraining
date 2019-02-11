@@ -221,7 +221,7 @@ F12 is your friend!
 @snapend
 
 @snap[west span-50]
-![](assets/img/dropdown_implementation.png)
+![](assets/img/dropdown_implemented.png)
 @snapend
 
 @snap[east span-50]
